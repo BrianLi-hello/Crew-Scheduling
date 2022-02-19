@@ -1,2 +1,3 @@
-# Crew-Scheduling
- Practicing C++ Inheritance and Polymorphism
+# Crew Scheduling
+
+    Practicing C++ Inheritance and Polymorphism
