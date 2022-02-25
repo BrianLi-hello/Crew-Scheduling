@@ -50,7 +50,7 @@ using namespace std;
         }
 
         const std::string Aircrew::name(void) const {
-            return nm; // idk // returning the name of the aircrew
+            return nm;
         }
 
         void Aircrew::setFlights(int i) {  // setter function
